@@ -22,7 +22,21 @@ public class Main {
 
         float decimal;
         decimal = 99898.99898f;
-        System.out.println("deciaml: "+ decimal);
+        System.out.println("Deciaml: "+ decimal);
+
+        double averageAnnualRevenue;
+        averageAnnualRevenue = 232323323.232232323;
+        System.out.println("AVERAGEANNUALREVENUE = " + averageAnnualRevenue);
+
+        char gender;
+        gender = 'm';
+        System.out.println("GENDER = " + gender );
+
+        boolean isEligible;
+        isEligible = true;
+        System.out.println("ELIGIBILE = " + isEligible);
+
+
 
 
 
